@@ -6,6 +6,8 @@ I'm a software developer from Planet Earth 🌍
 
 You can find me on:
 - [My website: miketevelev.com](https://miketevelev.com/)
+- [Twitter as @miketevelev](https://twitter.com/miketevelev/)
+
 
 <!--
 **miketevelev/miketevelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
