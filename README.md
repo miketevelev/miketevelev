@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! I'm Mike Tevelev 👋
+
+I'm a software developer from Planet Earth 🌍
+
+🌱 I’m currently learning Deep Learning/Machine Learning
+
+You can find me on:
+- [My website: miketevelev.com](https://miketevelev.com/)
 
 <!--
 **miketevelev/miketevelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
