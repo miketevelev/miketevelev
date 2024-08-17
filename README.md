@@ -2,12 +2,10 @@
 
 I'm a software developer from Planet Earth 🌍
 
-🌱 I’m currently learning Deep Learning/Machine Learning
+🌱 I’m currently learning Python & Java
 
 You can find me on:
 - [My website: miketevelev.com](https://miketevelev.com/)
-- [Twitter as @miketevelev](https://twitter.com/miketevelev/)
-- [LinkedIn](https://www.linkedin.com/in/miketevelev/)
 
 
 <!--
