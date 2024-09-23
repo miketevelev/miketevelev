@@ -2,7 +2,7 @@
 
 I am a "beginner" engineer. I started studying IT 2 years ago.
 
-- 🌱 I’m currently learning: Java
+- 🌱 Currently learning: Java
 - ✨ Already Know: Intermediate Python and little C
 - 🔭 I want to study: C++
 
