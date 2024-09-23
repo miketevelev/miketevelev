@@ -1,11 +1,12 @@
-### Hey! I'm Mike Tevelev 👋
+### Hey! I'm Mike 👋
 
-I'm a software developer from Planet Earth 🌍
+I am a "beginner" engineer. I started studying IT 2 years ago.
 
-🌱 I’m currently learning Python & Java
+🌱 I’m currently learning: Java
+✨ Already Know: Intermediate Python and little C
+🔭 I want to study: C++
 
-You can find me on:
-- [My website: miketevelev.com](https://miketevelev.com/)
+🤔 I'm thinking of starting a blog about what I've learned and what I'd like to share. That's all for now.
 
 
 <!--
