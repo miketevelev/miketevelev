@@ -3,7 +3,7 @@
 I am a "beginner" engineer. I started studying IT 2 years ago.
 
 - 🌱 Currently learning: Java
-- ✨ Already Know: Intermediate Python and little C
+- ✨ Already know: Intermediate Python and little C
 - 🔭 Want to study: C++
 
 🤔 I'm thinking of starting a blog about what I've learned and what I'd like to share. That's all for now.
