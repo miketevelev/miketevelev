@@ -2,9 +2,9 @@
 
 I am a "beginner" engineer. I started studying IT 2 years ago.
 
-- 🌱 Currently learning: Java
-- ✨ Already know: Intermediate Python and little C
-- 🔭 Want to study: C++
+- 🌱 Currently learning: Rust
+- ✨ Already know: Intermediate Java & Python and little C & C++
+- 🔭 Want to study: Haskel
 
 🤔 I'm thinking of starting a blog about what I've learned and what I'd like to share. That's all for now.
 
