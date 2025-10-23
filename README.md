@@ -1,6 +1,6 @@
 ### Hey! I'm Mike 👋
 
-I'm a software engineer. I started studying IT 3 years ago.
+I'm a software developer. I started studying IT 3 years ago.
 
 - 🌱 Currently learning: Rust
 - ✨ Already use: Java, Python, JS/TS, C/C++ and Rust
