@@ -3,7 +3,7 @@
 I'm a software engineer. I started studying IT 3 years ago.
 
 - 🌱 Currently learning: Rust
-- ✨ Already use: Java, Python, JS/TS, C & C++ and Rust
+- ✨ Already use: Java, Python, JS/TS, C/C++ and Rust
 - 🔭 Want to study next: Haskel
 
 🤔 I'm thinking of starting a blog or video blog about what I've learned and what I'd like to share. That's all for now.
