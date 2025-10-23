@@ -1,6 +1,6 @@
 ### Hey! I'm Mike 👋
 
-I am a "beginner" engineer. I started studying IT 2 years ago.
+I'm a software engineer. I started studying IT 3 years ago.
 
 - 🌱 Currently learning: Rust
 - ✨ Already know: Intermediate Java & Python and little C & C++
